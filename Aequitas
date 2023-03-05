@@ -1,4 +1,4 @@
-local NewModel = game:GetService("ReplicatedStorage").Resources.Items.Weapons.Sidearms.FrozenAequitas -- FrozenAequitas -- Aequitas
+local NewModel = game:GetService("ReplicatedStorage").Resources.Items.Weapons.Sidearms.Aequitas -- FrozenAequitas -- Aequitas
 
 local function CustomHandGun(character)
     game.Players.LocalPlayer.Character.ChildAdded:Connect(function(new)
